@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Aleksei.
 
-<!--
-**ab-budaev/ab-budaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Software Engineer from Saint Petersburg, Russia. 
+14 years experience in Backend & Infrastructure.
+Currently leading ModelOps team at [@skbkontur](https://github.com/skbkontur). 
 
-Here are some ideas to get you started:
+## Technical Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, PHP, a little bit Go
+- **Infrastructure**: Docker, Kubernetes, Helm, Ansible, S3, Terraform
+- **MLOps**: MLflow, ClearML, vLLM, Triton, DVC
+- **CI/CD**: GitLab CI/CD
+
+## Keep in touch
+
+- [Email](mailto:ab.budaev@gmail.com)
