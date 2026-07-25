@@ -1,8 +1,6 @@
 # Hey, I'm Aleksei.
 
-I'm a Backend Software Engineer from Saint Petersburg, Russia. 14 years experience in Backend & Infrastructure.
-
-Currently leading ModelOps team at [@skbkontur](https://github.com/skbkontur). 
+I'm a Software Engineer from Saint Petersburg, Russia. 14 years experience in Backend & Infrastructure. Leading ModelOps team at [@skbkontur](https://github.com/skbkontur). 
 
 **Technical Stack**
 
